@@ -24,7 +24,6 @@
 - **Secure File Erasure** - 3-pass overwrite (0x00 → 0xFF → random) with filename randomization on each pass
 - **Clean Erasure** - Timestamp wipe + secure erase + NTFS journal flooding
 - **Journal Flooding** - Pollute NTFS `$UsnJrnl` with massive dummy file create/delete operations
-- **Command Execution** - Run arbitrary commands as part of the anti-forensics pipeline
 - **One-Click Restore** - Revert all permission changes back to their original state
 
 ## Usage
