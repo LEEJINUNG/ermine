@@ -92,19 +92,6 @@ ermine.exe floodjournal %Temp% 100000
 ermine.exe /help
 ```
 
-## Architecture
-
-```
-ermine.exe
-├── AntiForensics       - Target list & permission control orchestrator
-├── FilePermission      - NTFS ACL query & display
-├── FilePermissionModifier - Set read-only / restore permissions
-├── RegistryPermission  - Registry key ACL control
-├── CommandExecutor     - Shell command execution module
-├── FileEraser          - 3-pass secure file deletion
-├── CleanEraser         - Timestamp wipe + erase + journal flood
-└── TransactionCleaner  - NTFS journal pollution engine
-```
 
 ## Disclaimer
 
