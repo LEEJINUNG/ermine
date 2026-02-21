@@ -2,7 +2,7 @@
   <img src="/img/ermine_banner.png" alt="Ermine Banner" width="100%"/>
 </p>
 
-<h1 align="center">Ermine</h1>
+<h1 align="center">ermine</h1>
 
 <p align="center">
   <b>Anti-Forensics Research Tool for DFIR Training</b>
