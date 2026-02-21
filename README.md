@@ -12,7 +12,7 @@
 
 > **Wait!** Are you afraid of your traces being discovered?
 >
-> If you use the cute little **Ermine**, it will snatch away your program logs before they pile up on the computer and run off with them.
+> If you use the cute little **ermine**, it will snatch away your program logs before they pile up on the computer and run off with them.
 >
 > Feed your traces to Ermine. It's hungry.
 
